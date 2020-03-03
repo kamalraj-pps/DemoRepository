@@ -13,4 +13,8 @@ public class HomePage {
 	public void logoTest() {
 		System.out.println("Logo Test");
 	}
+	
+	public void controlLoadTest(){
+		System.out.println("Control Load Test");
+	}
 }

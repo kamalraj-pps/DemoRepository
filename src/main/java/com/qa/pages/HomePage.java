@@ -6,4 +6,8 @@ public class HomePage {
 		System.out.println("Home Page");
 	}
 
+	public void titleTest() {
+		System.out.println("title Test");
+	}
+	
 }
